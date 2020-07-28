@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+![Headshot of Bryson](/images/headshot.jpg)
 
-You can use the [editor on GitHub](https://github.com/brysonjones/brysonjones.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Bryson's Portfolio
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Personal Background
+Hello, and welcome to my website! My name is Bryson Jones, and I am currently in my final year of study for my Master's in Robotic Systems Development (MRSD) at Carnegie Mellon University. Prior to graduate school, I attended North Carolina State University, where I received my Bachelor's in Mechanical Engineering. While there, I was the Vehicle Dynamics Lead and Team Captain of the Wolfpack Motorsports Formula SAE Team, achieving 6th Place Overall out of ~80 competitors my senior year.
 
-### Markdown
+After coming to CMU, I have been exploring various areas within Robotics, and have gained substantial experience in machine learning, motion planning, computer vision, and overall software development. My main interests lie at the intersection of online learning for motion control, and adaptive planning and decision making of intelligent systems.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+While finishing my degree, I am also currently a part-time intern at Relativity Space, where I am working on developing autonomous systems for the metal 3D printing and assembly of rockets.
 
-```markdown
-Syntax highlighted code block
+### Work/Project Breakdown
+* [FSAE](./FSAE)
+* [Machine Learning](./machine_learning)
+* [Computer Vision](./computer_vision)
+* [Controls](./controls)
+* [Work Experience](./work_exp)
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/brysonjones/brysonjones.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Git Repositories
